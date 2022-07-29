@@ -64,3 +64,34 @@ footer{
     color: blueviolet;
     font-weight: 800;
 }
+.middle{
+    line-height: 23px;
+}
+.link-buy{
+    background-color: #5f29a3;
+    color: whitesmoke;
+}
+.link-moreInfo{
+ background-color: #f0e0ff;
+ color: #5f29a3;
+}
+.link-About{
+    background-color: whitesmoke;
+    color: #5f29a3;
+}
+.contact{
+    background-color: whitesmoke;
+    color: #5f29a3;
+}
+.btn{
+    padding: 10px 19px;
+    border-radius: 4.6px;
+    font-weight: 500;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+}
+.btn:hover{
+    background-color: #f3e885;
+    color: #2b283a;
+}
